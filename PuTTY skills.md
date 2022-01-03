@@ -5,10 +5,11 @@
 ![](https://s3.bmp.ovh/imgs/2022/01/ef2c276050692231.png)  
 
 #### 2.屏幕输出太快了，暂停一下
+平时在跑job的时候，有时候看log需要用到。  
 Ctrl+S ，可以暂停终端，Ctrl+Q 恢复。
 
 #### 3.翻页
-Shift+PageUp/PageDown 一页一页的翻，Ctrl+PageUp/PageDown 则是一行一行的。
+Shift+PageUp/PageDown 一页一页地翻，Ctrl+PageUp/PageDown 则是一行一行地挪。
 
 #### 4.修改主题色Theme
 黑乎乎窗口，看着有点古板。暂时还没设置到，mark在这里
