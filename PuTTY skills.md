@@ -13,4 +13,7 @@ Shift+PageUp/PageDown 一页一页地翻，Ctrl+PageUp/PageDown 则是一行一�
 
 #### 4.修改主题色Theme
 黑乎乎窗口，看着有点古板。暂时还没设置到，mark在这里
+1）win +R，regedit
+2）找到路径：计算机\HKEY_CURRENT_USER\Software\SimonTatham\PuTTY\Sessions
+后面不会set……
 github 主题设置参考: [link](https://github.com/AlexAkulov/putty-color-themes)
