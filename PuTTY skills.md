@@ -11,4 +11,5 @@ Ctrl+S ，可以暂停终端，Ctrl+Q 恢复。
 Shift+PageUp/PageDown 一页一页的翻，Ctrl+PageUp/PageDown 则是一行一行的。
 
 #### 4.修改主题色Theme
-github 主题设置参考 [link](https://github.com/AlexAkulov/putty-color-themes)
+黑乎乎窗口，看着有点古板。暂时还没设置到，mark在这里
+github 主题设置参考: [link](https://github.com/AlexAkulov/putty-color-themes)
